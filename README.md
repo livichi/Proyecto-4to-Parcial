@@ -2,10 +2,9 @@
 villafaña ya parale
 
 
-git clone "direccion https"
+git clone "direccion http"
 
-git add . (agregar cambio)
-
-git coment "comentario"
-
-git push  (subir cambio)
+SUBIR CAMBIO:
+1) git add . (agregar cambio)
+2) git coment "cambio que hiciste"
+3) git push  (subir cambio)
